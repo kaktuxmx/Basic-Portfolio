@@ -40,6 +40,19 @@ header
 	border-bottom-color: #ffffff;
 	}
 
+.images
+	{
+	width: 180px;
+	height: 180px;
+	float: left;
+
+	margin: 10px 0px 0px 10px;
+	padding: 0px;
+	border-style: none;
+	border-color: none;
+
+	}
+
 body
 	{
 	border-top-color: #cccccc
@@ -86,6 +99,7 @@ aside
 	font-size: 25px;
 	color: #4aaaa5;
 	}
+
 footer
 	{
 	clear:both;
